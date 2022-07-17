@@ -374,14 +374,15 @@ span.text-red {
   margin-top: 60px;
 }
 .flex h5 {
-  font-size: 24px;
+  font-size: 19px;
 }
 .flex h4 {
-  font-size: 20px;
+  font-size: 17px;
 }
 .total {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 10px;
 }
 .total h3 {
   font-size: 22px;
@@ -394,11 +395,11 @@ span.text-red {
   border: none;
 }
 .cart-bottom {
-  position: absolute;
+  position: relative;
   bottom: 12px;
   right: 5px;
   width: 100%;
-  padding: 30px 65px;
+  padding: 20px 65px;
 }
 
 .btn-container {
@@ -413,7 +414,7 @@ span.text-red {
   border: none;
   font-size: 20px;
   margin-top: 10px;
-  margin-top: 40px;
+  /* margin-top: 40px; */
   text-transform: uppercase;
   background-color: #f02d34;
   color: #fff;
@@ -743,11 +744,11 @@ span.text-red {
     margin-top: 30px;
   }
   .flex h5 {
-    font-size: 16px;
+    font-size: 10px;
     color: #324d67;
   }
   .flex h4 {
-    font-size: 16px;
+    font-size: 9px;
     color: black;
   }
   .cart-bottom {
